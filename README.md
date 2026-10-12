@@ -313,3 +313,4 @@ For production deployment:
 ## Conclusion
 The mini project demonstrates how authentication and CRUD operations can be integrated into a complete MERN stack application. JWT provides authentication for protected APIs, while MongoDB and Mongoose manage student data. The project provides practical understanding of frontend-backend communication, REST APIs, database operations, authentication, validation, and error handling.# practical-10-student-crud-auth
 # Atharva2565-glitch-practical-10-mini-project-crud-auth
+# practical-10-mini-project-crud-auth
